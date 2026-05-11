@@ -220,7 +220,7 @@ __marimo__/
 # Gitignore
 .gitignore
 .env
-*.json #blocks gcp_key;sjon
+*.json # blocks gcp_key;sjon
 __pycache__/
 *.pyc
 logs/
