@@ -216,3 +216,14 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Gitignore
+.gitignore
+.env
+*.json #blocks gcp_key;sjon
+__pycache__/
+*.pyc
+logs/
+dbt/target/
+dbt/dbt_packages/
+
